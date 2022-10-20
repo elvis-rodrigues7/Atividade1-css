@@ -1,0 +1,47 @@
+.conteiner {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.top {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    left: 500px;
+    top: 0px;
+}
+
+.left1 {
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+    position: relative;
+    left: 0px;
+}
+
+.right1 {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+    position: relative;
+    right: -1000px;
+}
+
+.bottom {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
+
+.position {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.float {
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+}

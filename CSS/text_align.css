@@ -1,0 +1,25 @@
+/*Text align*/
+.text_align {
+    width: 100%;
+    background: rgb(220, 220, 220);
+}
+
+.center {
+    text-align: center;
+    border: 1px dashed #000;
+}
+
+.left {
+    text-align:left;
+    border: 1px dashed #000;
+}
+
+.justify {
+    text-align: justify;
+    border: 1px dashed #000;
+}
+
+.right {
+    text-align: right;
+    border: 1px dashed #000;
+}

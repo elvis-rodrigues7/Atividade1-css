@@ -1,0 +1,27 @@
+.font-family {
+    width: 100%;
+    background: rgb(220, 220, 220);
+}
+
+.f1 {
+    border: 1px dashed #000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.f2 {
+    border: 1px dashed #000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.f3 {
+    border: 1px dashed #000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.f4 {
+    border: 1px dashed #000;
+    font-family: 'Inter', sans-serif;;
+    
+}

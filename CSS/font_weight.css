@@ -1,0 +1,16 @@
+/*Font- weight*/
+
+.font-weight {
+    width: 100%;
+    background: rgb(220, 220, 220);
+}
+
+.w1 {
+    border: 1px dashed #000;
+    font-weight: lighter;
+}
+
+.w2 {
+    border: 1px dashed #000;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+@import url(./CSS/text_align.css);
+@import url(./CSS/font_weight.css);
+@import url(./CSS/font_size.css);
+@import url(./CSS/font-family.css);
+@import url(./CSS/posicao.css);
+
+.title {
+    text-align:center
+}
+.subtitle {
+    text-align: center;
+}
+
+
